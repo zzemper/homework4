@@ -98,7 +98,7 @@ header{
 
   /*Your Code Here*/
   /*Set background-image to header.jpg */
-  background-image: "header.jpg";
+  background-image: url("../images/header.jpg");
   background-repeat: no-repeat;
  
 
